@@ -1,0 +1,15 @@
+.fullpage.section1 {
+  background: #ff7575;
+}
+.icons {
+  margin: 5px;
+}
+.section1 h1 {
+  font-size: 4rem;
+  margin-bottom: 0.25rem;
+}
+arrow-wrapper {
+  margin-top: -50px;
+  text-align: center;
+  cursor: pointer;
+}

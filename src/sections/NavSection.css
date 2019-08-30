@@ -1,0 +1,10 @@
+nav {
+  float:right;
+ 
+  margin-right: 50px;
+}
+nav a {
+  margin: 30px 10px;
+  font-size: 16px;
+  cursor: pointer;
+}

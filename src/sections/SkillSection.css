@@ -1,0 +1,14 @@
+.fullpage.section3 {
+    background: #ffbaba;
+}
+.cards-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cards-wrapper .card {
+    background: white;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+}

@@ -1,0 +1,66 @@
+{
+    "title" : "Hello! I am Hamideh Daliri",
+    "subtitle" : "Web Developer | Bird Watcher",
+    "links" : {
+        "instagram" : "///",
+        "linkedin" : "///",
+        "twitter" : "///",
+        "google" : "///",
+        "whatsapp" : "///"
+    },
+    "sections" : [
+        {
+            "title": "About",
+            "items" : [
+                {
+                    "type": "p",
+                    "content": "something about me"
+                }
+            ] 
+        },
+        {
+            "title": "Skills",
+            "items" : [
+                {
+                    "type": "card",
+                    "content": {
+                        "title": "React",
+                        "image": "images/react.svg"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "title": "CSS3",
+                        "image": "images/css.png"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "title": "HTML5",
+                        "image": "images/html.png"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "title": "Bootstrap",
+                        "image": "images/bs.png"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "title": "Yii2",
+                        "image": "images/yii.jpg"
+                    }
+                }
+            ] 
+        }
+    ],
+    "icons": {
+        "down": "images/down-arrow.png",
+        "up": "images/up-arrow.png"
+    }
+}
