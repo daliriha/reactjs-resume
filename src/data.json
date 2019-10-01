@@ -2,11 +2,12 @@
     "title" : "Hello! I am Hamideh Daliri",
     "subtitle" : "Web Developer | Bird Watcher",
     "links" : {
-        "instagram" : "///",
-        "linkedin" : "///",
-        "twitter" : "///",
-        "google" : "///",
-        "whatsapp" : "///"
+        "instagram" : "https://www.instagram.com/hamideh_and_nature/",
+        "linkedin" : "https://www.linkedin.com/in/hamideh-daliri-7ba8886",
+        "github" : "https://github.com/daliriha/",
+        "twitter" : "https://twitter.com",
+        "google" : "https://google.com",
+        "facebook" : "https://facebook.com"
     },
     "sections" : [
         {

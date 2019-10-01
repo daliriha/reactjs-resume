@@ -24,6 +24,7 @@ class TitleSection extends Component {
                   className="icons"
                   fgColor="#fff"
                   bgColor="#000"
+                  url={data.links[key]}
                 />
               );
             })}

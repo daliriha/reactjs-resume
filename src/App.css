@@ -4,3 +4,53 @@ body {
   height: 100%;
   margin: 0;
 }
+
+.bg-theme-0 .fullpage.section1 {
+  background: #ff7575;
+}
+.bg-theme-0 .fullpage.section2 {
+  background: #ff8686;
+}
+.bg-theme-0 .fullpage.section3 {
+  background: #ffbaba;
+}
+
+.bg-theme-1 .fullpage.section1 {
+  background: #004D40;
+}
+.bg-theme-1 .fullpage.section2 {
+  background: #009688;
+}
+.bg-theme-1 .fullpage.section3 {
+  background: #80CBC4;
+}
+
+.bg-theme-2 .fullpage.section1 {
+  background: #1A237E;
+}
+.bg-theme-2 .fullpage.section2 {
+  background: #3F51B5;
+}
+.bg-theme-2 .fullpage.section3 {
+  background: #9FA8DA;
+}
+
+.bg-theme-3 .fullpage.section1 {
+  background: #FF6F00;
+}
+.bg-theme-3 .fullpage.section2 {
+  background: #FFC107;
+}
+.bg-theme-3 .fullpage.section3 {
+  background: #FFE082;
+}
+
+.bg-theme-4 .fullpage.section1 {
+  background: #1B5E20;
+}
+.bg-theme-4 .fullpage.section2 {
+  background: #4CAF50;
+}
+.bg-theme-4 .fullpage.section3 {
+  background: #81C784;
+}

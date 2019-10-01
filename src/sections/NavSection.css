@@ -1,10 +1,19 @@
 nav {
   float:right;
- 
   margin-right: 50px;
 }
 nav a {
   margin: 30px 10px;
   font-size: 16px;
+  cursor: pointer;
+}
+.top-section {
+  position: fixed;
+  width: 100%;
+}
+.change-color {
+  font-size: 13px;
+  float: left;
+  margin: 10px 50px;
   cursor: pointer;
 }
